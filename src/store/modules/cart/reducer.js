@@ -3,13 +3,6 @@ import produce from 'immer';
 export default function cart(state = [], action) {
   switch (action.type) {
     case 'ADD_TO_CART':
-      // without immer.js:
-      // return [...state,
-      //   {
-      //     ...action.product,
-      //     amount: 1,
-      //   },
-      // ];
       return produce(state, draft => {
         const productIndex = draft.findIndex(p => p.id === action.product.id);
 
