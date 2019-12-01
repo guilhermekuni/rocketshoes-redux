@@ -9,7 +9,6 @@ import api from '../../services/api';
 import * as CartActions from '../../store/modules/cart/actions';
 
 import { ProductList } from './styles';
-import produce from 'immer';
 
 class Home extends Component {
   state = {
