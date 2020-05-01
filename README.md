@@ -33,7 +33,7 @@
 
 ## Remarks 📝
 
-- This project was developed in 2019, and didn't receive updates (just `README` updates and a custom script in package.json).
+- This project was developed in 2019, and didn't receive feature updates since 2019 (just `README` updates and a custom script in package.json).
 - It is not using React Hooks API yet, it still implements class components.
 
 ## License 📃
