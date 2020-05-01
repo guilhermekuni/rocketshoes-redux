@@ -17,6 +17,9 @@
 - ⚙️ **Reactotron** - is a macOS, Windows, and Linux app for inspecting your React JS and React Native apps.
 - ⚙️ **Json Server** - fake server, runs a fake API using a JSON file.
 
+## About ℹ️
+ 
+<p>This project was developed to study React with Redux and Sagas, and it simulates a Shoe e-commerce, implementing the Shop Cart feature. Basically, you can add and remove items from your cart. The information is storage in the Redux global state, and it's all manipulated using Redux actions and Saga middlewares.</p>
 
 ## Screenshots 🖼
 
