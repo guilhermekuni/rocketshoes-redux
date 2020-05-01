@@ -1,8 +1,8 @@
 <h1 align="center">⚛️ Rocketshoes Redux 👟</h1>
 
 <div align="center">
-    <p>This project was developed in Rocketseat's Bootcamp GoStack 2019</p>
-    <p>The intention is to apply Flux pattern, using ReactJS, Redux and Sagas.</p>
+    <p>This project was developed in Rocketseat's Bootcamp GoStack 2019!</p>
+    <p>The intention is to apply Flux pattern using ReactJS, Redux and Sagas.</p>
 </div>
 
 ## Libraries 📚
