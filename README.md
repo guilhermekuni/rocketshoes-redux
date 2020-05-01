@@ -18,7 +18,12 @@
 - ⚙️ **Json Server** - fake server, runs a fake API using a JSON file.
 
 
-## Getting Started
+## Screenshots 🖼
+
+<image src="src/assets/screenshots/home.png" width="100%" />
+<image src="src/assets/screenshots/cart.png" width="100%" />
+
+## Getting Started 🚀
 
 1. First, you'll have to run `yarn` to install project dependecies.
 2. Run `yarn run-server` to start JSON SERVER and run the Fake API.
@@ -26,11 +31,11 @@
 4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
-## Remarks
+## Remarks 📝
 
-- This project was developed in 2019, and didn't receive updates (just a custom script in package.json).
+- This project was developed in 2019, and didn't receive updates (just `README` updates and a custom script in package.json).
 - It is not using React Hooks API yet, it still implements class components.
 
-## License
+## License 📃
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
