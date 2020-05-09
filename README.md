@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>This project was developed in Rocketseat's Bootcamp GoStack 2019!</p>
-    <p>The intention is to apply Flux pattern using ReactJS, Redux and Sagas.</p>
+    <p>The intention is to apply Flux pattern using ReactJS, Redux and Saga.</p>
 </div>
 
 ## Libraries 📚
@@ -19,7 +19,7 @@
 
 ## About ℹ️
  
-<p>This project was developed to study React with Redux and Sagas, and it simulates a Shoe e-commerce, implementing the Shop Cart feature. Basically, you can add and remove items from your cart. The information is storage in the Redux global state, and it's all manipulated using Redux actions and Saga middlewares.</p>
+<p>This project was developed to study React with Redux and Saga, and it simulates a Shoe e-commerce, implementing the Shop Cart feature. Basically, you can add and remove items from your cart. The information is storage in the Redux global state, and it's all manipulated using Redux actions and Saga middlewares.</p>
 
 ## Screenshots 🖼
 
