@@ -1,11 +1,6 @@
 <h1 align="center">⚛️ Rocketshoes Redux 👟</h1>
 
 <div align="center">
-    <p>This project was developed in Rocketseat's Bootcamp GoStack 2019!</p>
-    <p>The intention is to apply Flux pattern using ReactJS, Redux and Saga.</p>
-</div>
-
-<div align="center">
   <p align="center">
     <img alt="Repository languages count" src="https://img.shields.io/github/languages/top/guilhermekuni/go-finances-web?color=%23BC4749">
     <img alt="Repository top language" src="https://img.shields.io/github/languages/count/guilhermekuni/go-finances-web?color=%23BC4749">
