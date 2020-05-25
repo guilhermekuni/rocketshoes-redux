@@ -2,10 +2,10 @@
 
 <div align="center">
   <p align="center">
-    <img alt="Repository languages count" src="https://img.shields.io/github/languages/top/guilhermekuni/go-finances-web?color=%23BC4749">
-    <img alt="Repository top language" src="https://img.shields.io/github/languages/count/guilhermekuni/go-finances-web?color=%23BC4749">
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/guilhermekuni/go-finances-web?color=%23BC4749">
-    <img alt="Repository last commit" src="https://img.shields.io/github/last-commit/guilhermekuni/go-finances-web?color=%23BC4749" />
+    <img alt="Repository languages count" src="https://img.shields.io/github/languages/top/guilhermekuni/rocketshoes-redux?color=%23BC4749">
+    <img alt="Repository top language" src="https://img.shields.io/github/languages/count/guilhermekuni/rocketshoes-redux?color=%23BC4749">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/guilhermekuni/rocketshoes-redux?color=%23BC4749">
+    <img alt="Repository last commit" src="https://img.shields.io/github/last-commit/guilhermekuni/rocketshoes-redux?color=%23BC4749" />
   </p>
   <h3>A React + Redux project!</h3>
   <p align="center">
