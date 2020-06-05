@@ -24,7 +24,7 @@
 
 ## About :information_source:
  
-This project was developed in Rocketseat's Bootcamp GoStack 2019 to study React with Redux and Saga, and it simulates a Shoe e-commerce, implementing the Shop Cart feature. Basically, you can add and remove items from your cart. The information is storage in the Redux global state, and it's all manipulated using Redux actions and Saga middlewares.
+This project was developed in Rocketseat's Bootcamp GoStack 2019 to study React with Redux and Redux Saga. It simulates a Shoe e-commerce, implementing the Shop Cart feature. Basically, you can add and remove items from your cart. The information is storage in the Redux global state, and it's all manipulated using Redux actions and Saga middlewares.
 
 ## Libraries :books:
 
